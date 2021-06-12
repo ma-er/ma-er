@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ![JavaScript](https://badgen.net/badge/Language/JavaScript/cyan?icon=visualstudio&label)
+
 <!--
 **ma-er/ma-er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
